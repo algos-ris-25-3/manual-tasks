@@ -267,7 +267,10 @@ $$
 $$
 
 $$
-\Delta_2=\begin{vmatrix}8&2\\8&8\end{vmatrix}.
+\Delta_2=\begin{vmatrix}
+8&2\\
+8&8
+\end{vmatrix}.
 $$
 
 Отсюда:
@@ -381,7 +384,11 @@ $$
 Независимо, по матрице:
 
 $$
-\Delta_3=\begin{vmatrix} 8&2&0\\ 8&8&2\\ 0&8&8 \end{vmatrix}
+\Delta_3=\begin{vmatrix}
+8&2&0\\
+8&8&2\\
+0&8&8
+\end{vmatrix}
 $$
 
 Разложение по первой строке:
